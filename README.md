@@ -10,4 +10,5 @@
 
 - **Sustainable Practices:** We are committed to eco-friendly sourcing and packaging, helping you make a positive impact on the planet.
 
-![alt text](/preview.png)
+
+![preview](https://github.com/user-attachments/assets/26785a50-1655-41ed-8414-8ccb6d78daf5)
