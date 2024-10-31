@@ -4,10 +4,10 @@
 
 ## **Why Choose Plantex?**
 
-#### - Quality Assurance: We prioritize healthy, high-quality plants that are nurtured with care.
+- **Quality Assurance:** We prioritize healthy, high-quality plants that are nurtured with care.
 
-#### - Expert Advice: Our team of plant enthusiasts is always on hand to offer tips and guidance, ensuring your plants flourish.
+- **Expert Advice:** Our team of plant enthusiasts is always on hand to offer tips and guidance, ensuring your plants flourish.
 
-#### - Sustainable Practices: We are committed to eco-friendly sourcing and packaging, helping you make a positive impact on the planet.
+- **Sustainable Practices:** We are committed to eco-friendly sourcing and packaging, helping you make a positive impact on the planet.
 
-![alt text](/image.png)
+![alt text](/preview.png)
